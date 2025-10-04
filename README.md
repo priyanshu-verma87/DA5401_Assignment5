@@ -47,11 +47,11 @@ The notebook is structured into the following logical sections:
   - Preserved more global structure.  
   - Suggested the dataset lies on a **complex, curved manifold**, reflecting the difficulty of learning functional categories.  
 
-👉 Overall, **t-SNE** was more effective at detecting local ambiguities and hard-to-learn samples, while **Isomap** provided insights into the global manifold structure.  
+ Overall, **t-SNE** was more effective at detecting local ambiguities and hard-to-learn samples, while **Isomap** provided insights into the global manifold structure.  
 
 ---
 
-## ⚙️ Requirements  
+## Requirements  
 
 Recommended Python environment:  
 
